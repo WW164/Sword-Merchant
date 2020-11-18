@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\RW\Scripts\Sword.cs" />
     <Compile Include="Assets\RW\Scripts\SwordData.cs" />
+    <Compile Include="Assets\RW\Scripts\SwordMerchant.cs" />
     <Compile Include="Assets\_Setup\Scripts\GlowComposite.cs" />
     <Compile Include="Assets\_Setup\Scripts\GlowObject.cs" />
     <Compile Include="Assets\_Setup\Scripts\GlowPrePass.cs" />

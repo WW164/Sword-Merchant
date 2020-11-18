@@ -6,8 +6,8 @@ public class Sword : MonoBehaviour
 
     [SerializeField]
     private GameEvent OnSwordSelected;
-
-    private void OnMouseDown()
+    
+    private void OnMouseDown() 
     {
         OnSwordSelected.Raise();
     }
