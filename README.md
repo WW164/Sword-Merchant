@@ -11,6 +11,8 @@ I used this [tutorial](https://www.raywenderlich.com/2826197-scriptableobject-tu
 ### Specifications for accessing the program
 In order to open this program, you need a 2019.4.14f1 or higher Unity installed on your device and Scriptable Object architecture package.
 
+The program is on Master branch.
+
 -----
 ![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Sword-Merchant)
 ![GitHub](https://img.shields.io/github/license/WW164/Sword-Merchant)
