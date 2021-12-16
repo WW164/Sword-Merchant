@@ -13,5 +13,3 @@ I used this [tutorial](https://www.raywenderlich.com/2826197-scriptableobject-tu
 
 ### Specifications for accessing the program
 In order to open this program, you need Unity 2019.4.14f1 or higher version installed on your device and Scriptable Object architecture package.
-
-The program is on Master branch.
