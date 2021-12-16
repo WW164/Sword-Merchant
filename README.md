@@ -9,7 +9,8 @@ Sword Merchant is a Unity program which represents a shop with sword items. User
 
 
 ### Objective
-I used this [tutorial](https://www.raywenderlich.com/2826197-scriptableobject-tutorial-getting-started) and developed Swrod Merchant to learn Scriptable Object architecture.
+I used this [tutorial](https://www.raywenderlich.com/2826197-scriptableobject-tutorial-getting-started) and developed Swrod Merchant to learn [Scriptable Object architecture](https://github.com/DanielEverland/ScriptableObject-Architecture).
 
 ### Specifications for accessing the program
-In order to open this program, you need Unity 2019.4.14f1 or higher version installed on your device and Scriptable Object architecture package.
+In order to open this program, you need Unity 2019.4.14f1 or higher version installed on your device.
+
